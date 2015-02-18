@@ -1,0 +1,1 @@
+ const unsigned char commonCryptoVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:commonCrypto  PROJECT:CommonCrypto-60061" "\n"; const double commonCryptoVersionNumber __attribute__ ((used)) = (double)60061.;
